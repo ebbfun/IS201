@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(249, 191, 83);
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(58, 55, 55);
+}
+
+.center {
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
+
+.Music {
+    font-size: xx-large;
+    font-weight: bolder;
+    text-decoration: underline;
+    color: black;
+}
+
+.title {
+    color: black;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.list {
+    font-size: large;
+}
+
+.videotitle {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+.intropara {
+    font-size: medium;
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-around;
+}
+
